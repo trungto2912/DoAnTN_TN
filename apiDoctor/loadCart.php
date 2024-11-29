@@ -1,0 +1,27 @@
+<?php
+require_once("Connection.php");
+
+$idUser = $_GET['idU']; // Lấy giá trị idUser từ tham số truyền vào
+
+$query = "SELECT tbl_cart.*, doctor.*, account.* 
+          FROM tbl_cart 
+          INNER JOIN doctor ON tbl_cart.idDoc = doctor.id 
+          INNER JOIN account ON tbl_cart.idAcc = account.id 
+          WHERE tbl_cart.idAcc = $idUser";
+
+$result = $conn->query($query);
+
+$data = array(); // Mảng lưu trữ dữ liệu
+
+if ($result->num_rows > 0) {
+    while ($row = $result->fetch_assoc()) {
+        $data[] = $row;
+    }
+}
+header('Content-Type: application/json'); // Đặt loại nội dung là JSON
+echo json_encode($data);
+
+$conn->close();
+
+
+?>
