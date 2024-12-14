@@ -20,7 +20,7 @@ import AccountDoctor from './screens/doctor/AccountDoctor';
 import SearchScreen from './screens/SearchScreen';
 import CartDoc from './screens/doctor/CartDoc';
 import BotChatScreen from './screens/BotChatScreen';
-
+import DiagnosticScreen from './screens/DiagnosticScreen';
 
 const Stack = createNativeStackNavigator();
 
@@ -47,7 +47,7 @@ export default function App() {
           <Stack.Screen name="Search" component={SearchScreen} />
           <Stack.Screen name="CartDoc" component={CartDoc} />
           <Stack.Screen name="ChatBot" component={BotChatScreen} />
-
+          <Stack.Screen name="Diagnostic" component={DiagnosticScreen} />
 
 
         </Stack.Navigator>

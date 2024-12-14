@@ -2,9 +2,10 @@
 require_once("Connection.php");
 
 $phone = $_POST['sdt'];
+$password = md5($_POST['pass']);
 
 // Kiểm tra thông tin đăng nhập trong cơ sở dữ liệu
-$query = "SELECT * FROM doctor WHERE phone = '$phone'";
+$query = "SELECT * FROM doctor WHERE phone = '$phone' AND pass = '$password'";
 $result = $conn->query($query);
 
 if ($result->num_rows > 0) {

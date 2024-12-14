@@ -180,7 +180,7 @@ const HomeScreen = () => {
         contentContainerStyle={styles.container}
       />
       <TouchableOpacity
-        onPress={() => navigation.navigate('ChatBot')}
+        onPress={() => navigation.navigate('Diagnostic')}
         className="absolute w-14 h-14 right-2 bottom-40 border-l-2 border-r-2 border-t-4 border-[#FF6813] 
         rounded-full items-center justify-center ">
         <Animatable.View
