@@ -1,0 +1,273 @@
+﻿Disease Name,Specialty,Symptom 1,Symptom 2,Symptom 3,Symptom 4,Symptom 5,Symptom 6,Symptom 7
+Viêm phổi,Khoa Nội,ho,sốt,khó thở,mệt mỏi,NaN,NaN,NaN
+Viêm phổi,Khoa Nội,ho,đau ngực,khó thở,sốt,NaN,NaN,NaN
+Viêm phổi,Khoa Nội,khó thở,sốt,mệt mỏi,ho,NaN,NaN,NaN
+Viêm phổi,Khoa Nội,sốt,khó thở,đau ngực,ho,NaN,NaN,NaN
+Tiểu đường,Khoa Nội,khát nước,mệt mỏi,đi tiểu nhiều,giảm cân,mờ mắt,NaN,NaN
+Tiểu đường,Khoa Nội,mờ mắt,khát nước,mệt mỏi,đi tiểu nhiều,NaN,NaN,NaN
+Tiểu đường,Khoa Nội,đi tiểu nhiều,giảm cân,mệt mỏi,khát nước,NaN,NaN,NaN
+Tiểu đường,Khoa Nội,giảm cân,mờ mắt,đi tiểu nhiều,mệt mỏi,NaN,NaN,NaN
+Tăng huyết áp,Khoa Nội,đau đầu,chóng mặt,mệt mỏi,đau ngực,sốt,NaN,NaN
+Tăng huyết áp,Khoa Nội,sốt,đau đầu,chóng mặt,mệt mỏi,NaN,NaN,NaN
+Tăng huyết áp,Khoa Nội,đau đầu,chóng mặt,đau ngực,mệt mỏi,sốt,NaN,NaN
+Tăng huyết áp,Khoa Nội,chóng mặt,đau ngực,sốt,mệt mỏi,NaN,NaN,NaN
+Viêm dạ dày,Khoa Nội,đau bụng,ợ hơi,buồn nôn,mất cảm giác thèm ăn,NaN,NaN,NaN
+Viêm dạ dày,Khoa Nội,buồn nôn,mất cảm giác thèm ăn,ợ hơi,đau bụng,NaN,NaN,NaN
+Viêm dạ dày,Khoa Nội,mất cảm giác thèm ăn,đau bụng,buồn nôn,ợ hơi,NaN,NaN,NaN
+Viêm dạ dày,Khoa Nội,ợ hơi,đau bụng,buồn nôn,mất cảm giác thèm ăn,NaN,NaN,NaN
+Bệnh tim mạch,Khoa Nội,đau ngực,khó thở,tim đập nhanh,mệt mỏi,NaN,NaN,NaN
+Bệnh tim mạch,Khoa Nội,khó thở,đau ngực,tim đập nhanh,mệt mỏi,NaN,NaN,NaN
+Bệnh tim mạch,Khoa Nội,tim đập nhanh,mệt mỏi,đau ngực,khó thở,NaN,NaN,NaN
+Bệnh tim mạch,Khoa Nội,đau ngực,mệt mỏi,tim đập nhanh,khó thở,NaN,NaN,NaN
+Sỏi thận,Khoa Nội,đau lưng,đái rắt,máu trong nước tiểu,đau bụng,NaN,NaN,NaN
+Sỏi thận,Khoa Nội,đau bụng,đái rắt,máu trong nước tiểu,đau lưng,NaN,NaN,NaN
+Sỏi thận,Khoa Nội,máu trong nước tiểu,đau lưng,đau bụng,đái rắt,NaN,NaN,NaN
+Sỏi thận,Khoa Nội,đái rắt,đau lưng,đau bụng,máu trong nước tiểu,NaN,NaN,NaN
+Bệnh gút,Khoa Nội,đau khớp,sưng khớp,nóng khớp,đỏ khớp,NaN,NaN,NaN
+Bệnh gút,Khoa Nội,sưng khớp,đỏ khớp,đau khớp,nóng khớp,NaN,NaN,NaN
+Bệnh gút,Khoa Nội,đỏ khớp,đau khớp,sưng khớp,nóng khớp,NaN,NaN,NaN
+Bệnh gút,Khoa Nội,nóng khớp,sưng khớp,đỏ khớp,đau khớp,NaN,NaN,NaN
+Viêm gan,Khoa Nội,vàng da,mệt mỏi,chán ăn,đau bụng,nước tiểu sẫm màu,NaN,NaN
+Viêm gan,Khoa Nội,mệt mỏi,vàng da,chán ăn,đau bụng,nước tiểu sẫm màu,NaN,NaN
+Viêm gan,Khoa Nội,đau bụng,vàng da,chán ăn,mệt mỏi,nước tiểu sẫm màu,NaN,NaN
+Viêm gan,Khoa Nội,nước tiểu sẫm màu,đau bụng,chán ăn,vàng da,mệt mỏi,NaN,NaN
+Đau dạ dày,Khoa Nội,đau bụng,ợ hơi,buồn nôn,mất cảm giác thèm ăn,NaN,NaN,NaN
+Đau dạ dày,Khoa Nội,đau bụng,buồn nôn,ợ hơi,mất cảm giác thèm ăn,NaN,NaN,NaN
+Đau dạ dày,Khoa Nội,mất cảm giác thèm ăn,đau bụng,buồn nôn,ợ hơi,NaN,NaN,NaN
+Đau dạ dày,Khoa Nội,buồn nôn,đau bụng,mất cảm giác thèm ăn,ợ hơi,NaN,NaN,NaN
+Viêm khớp,Khoa Nội,đau khớp,sưng khớp,cứng khớp,mệt mỏi,NaN,NaN,NaN
+Viêm khớp,Khoa Nội,sưng khớp,cứng khớp,mệt mỏi,đau khớp,NaN,NaN,NaN
+Viêm khớp,Khoa Nội,mệt mỏi,cứng khớp,đau khớp,sưng khớp,NaN,NaN,NaN
+Viêm khớp,Khoa Nội,cứng khớp,mệt mỏi,sưng khớp,đau khớp,NaN,NaN,NaN
+Thiếu máu,Khoa Nội,mệt mỏi,da xanh xao,đau đầu,chóng mặt,hoa mắt,NaN,NaN
+Thiếu máu,Khoa Nội,mệt mỏi,chóng mặt,da xanh xao,đau đầu,hoa mắt,NaN,NaN
+Thiếu máu,Khoa Nội,đau đầu,mệt mỏi,chóng mặt,hoa mắt,da xanh xao,NaN,NaN
+Thiếu máu,Khoa Nội,chóng mặt,mệt mỏi,đau đầu,hoa mắt,da xanh xao,NaN,NaN
+Rối loạn mỡ máu,Khoa Nội,đau bụng,mệt mỏi,tim đập nhanh,chóng mặt,NaN,NaN,NaN
+Rối loạn mỡ máu,Khoa Nội,mệt mỏi,chóng mặt,đau bụng,tim đập nhanh,NaN,NaN,NaN
+Rối loạn mỡ máu,Khoa Nội,tim đập nhanh,chóng mặt,đau bụng,mệt mỏi,NaN,NaN,NaN
+Rối loạn mỡ máu,Khoa Nội,chóng mặt,đau bụng,mệt mỏi,tim đập nhanh,NaN,NaN,NaN
+Viêm tụy,Khoa Nội,đau bụng,nôn mửa,sốt,mệt mỏi,NaN,NaN,NaN
+Viêm tụy,Khoa Nội,sốt,đau bụng,mệt mỏi,nôn mửa,NaN,NaN,NaN
+Viêm tụy,Khoa Nội,mệt mỏi,đau bụng,nôn mửa,sốt,NaN,NaN,NaN
+Viêm tụy,Khoa Nội,đau bụng,sốt,nôn mửa,mệt mỏi,NaN,NaN,NaN
+Cảm cúm,Khoa Nội,ho,sốt,đau cơ,mệt mỏi,nhức đầu,NaN,NaN
+Cảm cúm,Khoa Nội,nhức đầu,ho,đau cơ,sốt,mệt mỏi,NaN,NaN
+Cảm cúm,Khoa Nội,đau cơ,nhức đầu,ho,mệt mỏi,sốt,NaN,NaN
+Cảm cúm,Khoa Nội,mệt mỏi,ho,sốt,đau cơ,nhức đầu,NaN,NaN
+Xơ gan,Khoa Nội,vàng da,mệt mỏi,đau bụng,đầy hơi,nước tiểu sẫm màu,NaN,NaN
+Xơ gan,Khoa Nội,mệt mỏi,vàng da,đầy hơi,đau bụng,nước tiểu sẫm màu,NaN,NaN
+Xơ gan,Khoa Nội,đau bụng,vàng da,mệt mỏi,đầy hơi,nước tiểu sẫm màu,NaN,NaN
+Xơ gan,Khoa Nội,đầy hơi,mệt mỏi,vàng da,đau bụng,nước tiểu sẫm màu,NaN,NaN
+Covid-19,Khoa Nội,mất vị giác,khó thở,mệt mỏi,ho khan,NaN,NaN,NaN
+Covid-19,Khoa Nội,mất khứu giác,mệt mỏi,ho có đờm,khó thở,NaN,NaN,NaN
+Covid-19,Khoa Nội,ho khan,sốt,khó thở,đau đầu,NaN,NaN,NaN
+Covid-19,Khoa Nội,sốt,mệt mỏi,mất vị giác,ho có đờm,NaN,NaN,NaN
+Gãy xương,Khoa Ngoại,đau xương,sưng tấy,mất chức năng,đỏ,nóng,NaN,NaN
+Gãy xương,Khoa Ngoại,sưng tấy,đau xương,mất chức năng,nóng,đỏ,NaN,NaN
+Gãy xương,Khoa Ngoại,mất chức năng,đau xương,sưng tấy,đỏ,nóng,NaN,NaN
+Gãy xương,Khoa Ngoại,đỏ,sưng tấy,đau xương,mất chức năng,nóng,NaN,NaN
+Viêm ruột thừa,Khoa Ngoại,đau bụng,buồn nôn,sốt,mệt mỏi,NaN,NaN,NaN
+Viêm ruột thừa,Khoa Ngoại,mệt mỏi,sốt,đau bụng,buồn nôn,NaN,NaN,NaN
+Viêm ruột thừa,Khoa Ngoại,sốt,đau bụng,buồn nôn,mệt mỏi,NaN,NaN,NaN
+Viêm ruột thừa,Khoa Ngoại,đau bụng,mệt mỏi,sốt,buồn nôn,NaN,NaN,NaN
+U tuyến giáp,Khoa Ngoại,khó nuốt,mệt mỏi,sưng cổ,tăng cân,nóng trong người,NaN,NaN
+U tuyến giáp,Khoa Ngoại,sưng cổ,mệt mỏi,khó nuốt,tăng cân,nóng trong người,NaN,NaN
+U tuyến giáp,Khoa Ngoại,tăng cân,khó nuốt,sưng cổ,mệt mỏi,nóng trong người,NaN,NaN
+U tuyến giáp,Khoa Ngoại,nóng trong người,mệt mỏi,tăng cân,sưng cổ,khó nuốt,NaN,NaN
+Viêm ruột,Khoa Ngoại,đau bụng,tiêu chảy,sốt,mệt mỏi,NaN,NaN,NaN
+Viêm ruột,Khoa Ngoại,tiêu chảy,mệt mỏi,sốt,đau bụng,NaN,NaN,NaN
+Viêm ruột,Khoa Ngoại,mệt mỏi,đau bụng,tiêu chảy,sốt,NaN,NaN,NaN
+Viêm ruột,Khoa Ngoại,sốt,mệt mỏi,tiêu chảy,đau bụng,NaN,NaN,NaN
+Phẫu thuật chấn thương,Khoa Ngoại,đau vết thương,mất máu,sưng tấy,mệt mỏi,NaN,NaN,NaN
+Phẫu thuật chấn thương,Khoa Ngoại,mệt mỏi,sưng tấy,đau vết thương,mất máu,NaN,NaN,NaN
+Phẫu thuật chấn thương,Khoa Ngoại,mất máu,sưng tấy,đau vết thương,mệt mỏi,NaN,NaN,NaN
+Phẫu thuật chấn thương,Khoa Ngoại,sưng tấy,mệt mỏi,đau vết thương,mất máu,NaN,NaN,NaN
+Ung thư đại trực tràng,Khoa Ngoại,đau bụng,tiêu chảy,máu trong phân,giảm cân,mệt mỏi,NaN,NaN
+Ung thư đại trực tràng,Khoa Ngoại,giảm cân,máu trong phân,tiêu chảy,đau bụng,mệt mỏi,NaN,NaN
+Ung thư đại trực tràng,Khoa Ngoại,mệt mỏi,giảm cân,đau bụng,tiêu chảy,máu trong phân,NaN,NaN
+Ung thư đại trực tràng,Khoa Ngoại,tiêu chảy,đau bụng,giảm cân,mệt mỏi,máu trong phân,NaN,NaN
+U gan,Khoa Ngoại,đau bụng,sốt,vàng da,mệt mỏi,NaN,NaN,NaN
+U gan,Khoa Ngoại,vàng da,đau bụng,mệt mỏi,sốt,NaN,NaN,NaN
+U gan,Khoa Ngoại,sốt,đau bụng,vàng da,mệt mỏi,NaN,NaN,NaN
+U gan,Khoa Ngoại,mệt mỏi,vàng da,đau bụng,sốt,NaN,NaN,NaN
+Chấn thương sọ não,Khoa Ngoại,đau đầu,mất ý thức,buồn nôn,liệt tay chân,NaN,NaN,NaN
+Chấn thương sọ não,Khoa Ngoại,mất ý thức,liệt tay chân,buồn nôn,đau đầu,NaN,NaN,NaN
+Chấn thương sọ não,Khoa Ngoại,liệt tay chân,đau đầu,mất ý thức,buồn nôn,NaN,NaN,NaN
+Chấn thương sọ não,Khoa Ngoại,buồn nôn,mất ý thức,liệt tay chân,đau đầu,NaN,NaN,NaN
+Suy giảm chức năng thận,Khoa Ngoại,đau lưng,mệt mỏi,đái ít,sưng phù,NaN,NaN,NaN
+Suy giảm chức năng thận,Khoa Ngoại,mệt mỏi,sưng phù,đái ít,đau lưng,NaN,NaN,NaN
+Suy giảm chức năng thận,Khoa Ngoại,sưng phù,mệt mỏi,đái ít,đau lưng,NaN,NaN,NaN
+Suy giảm chức năng thận,Khoa Ngoại,đái ít,mệt mỏi,sưng phù,đau lưng,NaN,NaN,NaN
+Viêm phúc mạc,Khoa Ngoại,đau bụng,sốt,buồn nôn,mệt mỏi,NaN,NaN,NaN
+Viêm phúc mạc,Khoa Ngoại,sốt,mệt mỏi,đau bụng,buồn nôn,NaN,NaN,NaN
+Viêm phúc mạc,Khoa Ngoại,mệt mỏi,đau bụng,sốt,buồn nôn,NaN,NaN,NaN
+Viêm phúc mạc,Khoa Ngoại,buồn nôn,mệt mỏi,đau bụng,sốt,NaN,NaN,NaN
+Bệnh vẩy nến,Da liễu,bong tróc da,ngứa,mẩn đỏ,vảy da,NaN,NaN,NaN
+Bệnh vẩy nến,Da liễu,vảy da,bong tróc da,ngứa,mẩn đỏ,NaN,NaN,NaN
+Bệnh vẩy nến,Da liễu,mẩn đỏ,bong tróc da,ngứa,vảy da,NaN,NaN,NaN
+Bệnh vẩy nến,Da liễu,ngứa,vảy da,mẩn đỏ,bong tróc da,NaN,NaN,NaN
+Chốc lở,Da liễu,mụn nước,ngứa,đỏ da,sưng tấy,NaN,NaN,NaN
+Chốc lở,Da liễu,sưng tấy,mụn nước,ngứa,đỏ da,NaN,NaN,NaN
+Chốc lở,Da liễu,đỏ da,mụn nước,ngứa,sưng tấy,NaN,NaN,NaN
+Chốc lở,Da liễu,ngứa,mụn nước,sưng tấy,đỏ da,NaN,NaN,NaN
+Mề đay,Da liễu,ngứa,nổi mẩn đỏ,sưng phù,NaN,NaN,NaN,NaN
+Mề đay,Da liễu,nổi mẩn đỏ,ngứa,sưng phù,NaN,NaN,NaN,NaN
+Mề đay,Da liễu,sưng phù,ngứa,nổi mẩn đỏ,NaN,NaN,NaN,NaN
+Mề đay,Da liễu,ngứa,sưng phù,nổi mẩn đỏ,NaN,NaN,NaN,NaN
+Mụn trứng cá,Da liễu,mụn bọc,mụn cám,mụn đầu đen,NaN,NaN,NaN,NaN
+Mụn trứng cá,Da liễu,mụn đầu đen,mụn bọc,mụn cám,NaN,NaN,NaN,NaN
+Mụn trứng cá,Da liễu,mụn cám,mụn đầu đen,mụn bọc,NaN,NaN,NaN,NaN
+Mụn trứng cá,Da liễu,mụn bọc,mụn đầu đen,mụn cám,NaN,NaN,NaN,NaN
+Viêm da dị ứng,Da liễu,ngứa,mẩn đỏ,sưng tấy,NaN,NaN,NaN,NaN
+Viêm da dị ứng,Da liễu,mẩn đỏ,ngứa,sưng tấy,NaN,NaN,NaN,NaN
+Viêm da dị ứng,Da liễu,sưng tấy,ngứa,mẩn đỏ,NaN,NaN,NaN,NaN
+Viêm da dị ứng,Da liễu,ngứa,sưng tấy,mẩn đỏ,NaN,NaN,NaN,NaN
+Nấm da,Da liễu,ngứa,nổi mẩn đỏ,lở loét,NaN,NaN,NaN,NaN
+Nấm da,Da liễu,lở loét,nổi mẩn đỏ,ngứa,NaN,NaN,NaN,NaN
+Nấm da,Da liễu,nổi mẩn đỏ,lở loét,ngứa,NaN,NaN,NaN,NaN
+Nấm da,Da liễu,ngứa,lở loét,nổi mẩn đỏ,NaN,NaN,NaN,NaN
+U bã đậu,Da liễu,cục u trên da,đau nhẹ,NaN,NaN,NaN,NaN,NaN
+U bã đậu,Da liễu,đau nhẹ,cục u trên da,NaN,NaN,NaN,NaN,NaN
+U bã đậu,Da liễu,cục u trên da,đau nhẹ,NaN,NaN,NaN,NaN,NaN
+U bã đậu,Da liễu,đau nhẹ,cục u trên da,NaN,NaN,NaN,NaN,NaN
+Sẹo lồi,Da liễu,nổi sẹo,đau nhẹ,NaN,NaN,NaN,NaN,NaN
+Sẹo lồi,Da liễu,đau nhẹ,nổi sẹo,NaN,NaN,NaN,NaN,NaN
+Sẹo lồi,Da liễu,đau nhẹ,nổi sẹo,NaN,NaN,NaN,NaN,NaN
+Sẹo lồi,Da liễu,nổi sẹo,đau nhẹ,NaN,NaN,NaN,NaN,NaN
+Viêm nang lông,Da liễu,sưng nốt,đỏ,ngứa,NaN,NaN,NaN,NaN
+Viêm nang lông,Da liễu,ngứa,đỏ,sưng nốt,NaN,NaN,NaN,NaN
+Viêm nang lông,Da liễu,đỏ,sưng nốt,ngứa,NaN,NaN,NaN,NaN
+Viêm nang lông,Da liễu,sưng nốt,ngứa,đỏ,NaN,NaN,NaN,NaN
+Chàm,Da liễu,ngứa,mẩn đỏ,da khô,NaN,NaN,NaN,NaN
+Chàm,Da liễu,mẩn đỏ,ngứa,da khô,NaN,NaN,NaN,NaN
+Chàm,Da liễu,da khô,ngứa,mẩn đỏ,NaN,NaN,NaN,NaN
+Chàm,Da liễu,ngứa,da khô,mẩn đỏ,NaN,NaN,NaN,NaN
+Viêm da tiếp xúc,Da liễu,ngứa,đỏ da,sưng tấy,NaN,NaN,NaN,NaN
+Viêm da tiếp xúc,Da liễu,sưng tấy,ngứa,đỏ da,NaN,NaN,NaN,NaN
+Viêm da tiếp xúc,Da liễu,đỏ da,ngứa,sưng tấy,NaN,NaN,NaN,NaN
+Viêm da tiếp xúc,Da liễu,ngứa,sưng tấy,đỏ da,NaN,NaN,NaN,NaN
+Bệnh vảy nến thể mảng,Da liễu,vảy da,ngứa,đỏ,bong tróc,NaN,NaN,NaN
+Bệnh vảy nến thể mảng,Da liễu,đỏ,vảy da,ngứa,bong tróc,NaN,NaN,NaN
+Bệnh vảy nến thể mảng,Da liễu,bong tróc,vảy da,ngứa,đỏ,NaN,NaN,NaN
+Bệnh vảy nến thể mảng,Da liễu,ngứa,bong tróc,vảy da,đỏ,NaN,NaN,NaN
+Nổi mụn nước,Da liễu,mụn nước,ngứa,đỏ da,NaN,NaN,NaN,NaN
+Nổi mụn nước,Da liễu,đỏ da,mụn nước,ngứa,NaN,NaN,NaN,NaN
+Nổi mụn nước,Da liễu,mụn nước,đỏ da,ngứa,NaN,NaN,NaN,NaN
+Nổi mụn nước,Da liễu,ngứa,mụn nước,đỏ da,NaN,NaN,NaN,NaN
+Hắc lào,Da liễu,ngứa,nổi mẩn đỏ,lở loét,NaN,NaN,NaN,NaN
+Hắc lào,Da liễu,lở loét,nổi mẩn đỏ,ngứa,NaN,NaN,NaN,NaN
+Hắc lào,Da liễu,nổi mẩn đỏ,lở loét,ngứa,NaN,NaN,NaN,NaN
+Hắc lào,Da liễu,ngứa,lở loét,nổi mẩn đỏ,NaN,NaN,NaN,NaN
+Cận thị,Khoa Mắt,mờ mắt khi nhìn xa,mỏi mắt,NaN,NaN,NaN,NaN,NaN
+Cận thị,Khoa Mắt,mờ mắt khi nhìn xa,nhức mắt,NaN,NaN,NaN,NaN,NaN
+Cận thị,Khoa Mắt,mờ mắt khi nhìn xa,khó nhìn xa,NaN,NaN,NaN,NaN,NaN
+Cận thị,Khoa Mắt,mờ mắt,mỏi mắt,nhìn đôi,NaN,NaN,NaN,NaN
+Viêm kết mạc,Khoa Mắt,đỏ mắt,chảy nước mắt,ngứa,mờ mắt,NaN,NaN,NaN
+Viêm kết mạc,Khoa Mắt,đỏ mắt,ngứa,khó chịu,mờ mắt,NaN,NaN,NaN
+Viêm kết mạc,Khoa Mắt,đỏ mắt,chảy nước mắt,ngứa mắt,NaN,NaN,NaN,NaN
+Viêm kết mạc,Khoa Mắt,ngứa,mờ mắt,sưng mí mắt,NaN,NaN,NaN,NaN
+Đục thủy tinh thể,Khoa Mắt,mờ mắt,nhìn đôi,khó nhìn vào ban đêm,NaN,NaN,NaN,NaN
+Đục thủy tinh thể,Khoa Mắt,mờ mắt,nhìn đôi,nhìn mờ khi trời sáng,NaN,NaN,NaN,NaN
+Đục thủy tinh thể,Khoa Mắt,nhìn đôi,mất thị lực dần dần,mờ mắt,NaN,NaN,NaN,NaN
+Đục thủy tinh thể,Khoa Mắt,mờ mắt,khó nhìn vào ban đêm,chói mắt,NaN,NaN,NaN,NaN
+Viêm giác mạc,Khoa Mắt,đỏ mắt,đau mắt,sưng mí mắt,mờ mắt,NaN,NaN,NaN
+Viêm giác mạc,Khoa Mắt,đau mắt,mờ mắt,nhạy cảm với ánh sáng,NaN,NaN,NaN,NaN
+Viêm giác mạc,Khoa Mắt,đỏ mắt,sưng mí mắt,mờ mắt,NaN,NaN,NaN,NaN
+Viêm giác mạc,Khoa Mắt,mờ mắt,đau mắt,khó chịu khi nhìn sáng,NaN,NaN,NaN,NaN
+Glaucoma,Khoa Mắt,đau mắt,mờ mắt,nhìn chói,mất thị lực,NaN,NaN,NaN
+Glaucoma,Khoa Mắt,mờ mắt,nhìn chói,đau đầu,NaN,NaN,NaN,NaN
+Glaucoma,Khoa Mắt,mờ mắt,nhìn chói,mất thị lực từ từ,NaN,NaN,NaN,NaN
+Glaucoma,Khoa Mắt,đau mắt,nhìn chói,sưng mí mắt,NaN,NaN,NaN,NaN
+Mù màu,Khoa Mắt,khó phân biệt màu sắc,mờ mắt,NaN,NaN,NaN,NaN,NaN
+Mù màu,Khoa Mắt,khó phân biệt màu đỏ và xanh,mờ mắt,NaN,NaN,NaN,NaN,NaN
+Mù màu,Khoa Mắt,khó phân biệt màu sắc,nhìn mờ,NaN,NaN,NaN,NaN,NaN
+Mù màu,Khoa Mắt,khó phân biệt màu xanh lá và vàng,mờ mắt,NaN,NaN,NaN,NaN,NaN
+Viêm mí mắt,Khoa Mắt,đỏ mí mắt,ngứa,sưng mí mắt,đau mắt,NaN,NaN,NaN
+Viêm mí mắt,Khoa Mắt,đỏ mí mắt,ngứa,sưng mí mắt,khó mở mắt,NaN,NaN,NaN
+Viêm mí mắt,Khoa Mắt,ngứa mí mắt,đỏ mí mắt,sưng mí mắt,NaN,NaN,NaN,NaN
+Viêm mí mắt,Khoa Mắt,đau mắt,ngứa mí mắt,sưng mí mắt,NaN,NaN,NaN,NaN
+Viêm túi lệ,Khoa Mắt,sưng mắt,đau quanh mắt,chảy nước mắt,NaN,NaN,NaN,NaN
+Viêm túi lệ,Khoa Mắt,sưng mắt,đau mí mắt,khó mở mắt,NaN,NaN,NaN,NaN
+Viêm túi lệ,Khoa Mắt,sưng mắt,chảy nước mắt,nhạy cảm với ánh sáng,NaN,NaN,NaN,NaN
+Viêm túi lệ,Khoa Mắt,sưng mắt,đau quanh mắt,mờ mắt,NaN,NaN,NaN,NaN
+Bệnh võng mạc,Khoa Mắt,mờ mắt,nhìn đôi,giảm thị lực,NaN,NaN,NaN,NaN
+Bệnh võng mạc,Khoa Mắt,mờ mắt,giảm thị lực,khó nhìn vào ban đêm,NaN,NaN,NaN,NaN
+Bệnh võng mạc,Khoa Mắt,mờ mắt,giảm thị lực,nhìn đôi,NaN,NaN,NaN,NaN
+Bệnh võng mạc,Khoa Mắt,mờ mắt,giảm thị lực,mất thị lực dần dần,NaN,NaN,NaN,NaN
+Tật khúc xạ,Khoa Mắt,mờ mắt,nhức mắt,khó nhìn ban đêm,NaN,NaN,NaN,NaN
+Tật khúc xạ,Khoa Mắt,mờ mắt,nhức mắt,mỏi mắt khi đọc,NaN,NaN,NaN,NaN
+Tật khúc xạ,Khoa Mắt,mờ mắt,khó nhìn ban đêm,mỏi mắt,NaN,NaN,NaN,NaN
+Tật khúc xạ,Khoa Mắt,nhức mắt,mỏi mắt,khó nhìn xa,NaN,NaN,NaN,NaN
+Mắt khô,Khoa Mắt,mắt khô,ngứa mắt,khó mở mắt,NaN,NaN,NaN,NaN
+Mắt khô,Khoa Mắt,khô mắt,ngứa,đỏ mắt,NaN,NaN,NaN,NaN
+Mắt khô,Khoa Mắt,mắt khô,khó mở mắt,mỏi mắt,NaN,NaN,NaN,NaN
+Mắt khô,Khoa Mắt,mắt khô,ngứa mắt,chảy nước mắt,NaN,NaN,NaN,NaN
+Đau mắt,Khoa Mắt,đau nhức mắt,nhạy cảm với ánh sáng,NaN,NaN,NaN,NaN,NaN
+Đau mắt,Khoa Mắt,đau mắt,đỏ mắt,NaN,NaN,NaN,NaN,NaN
+Đau mắt,Khoa Mắt,đau nhức mắt,mờ mắt,NaN,NaN,NaN,NaN,NaN
+Đau mắt,Khoa Mắt,đau mắt,nhạy cảm với ánh sáng,mờ mắt,NaN,NaN,NaN,NaN
+Lão thị,Khoa Mắt,khó nhìn gần,mỏi mắt khi đọc,NaN,NaN,NaN,NaN,NaN
+Lão thị,Khoa Mắt,khó nhìn gần,mỏi mắt,NaN,NaN,NaN,NaN,NaN
+Lão thị,Khoa Mắt,khó nhìn gần,mờ mắt khi đọc,NaN,NaN,NaN,NaN,NaN
+Lão thị,Khoa Mắt,khó nhìn gần,mỏi mắt,nhức mắt,NaN,NaN,NaN,NaN
+Rối loạn nhìn ban đêm,Khoa Mắt,khó nhìn vào ban đêm,mờ mắt,NaN,NaN,NaN,NaN,NaN
+Rối loạn nhìn ban đêm,Khoa Mắt,khó nhìn vào ban đêm,chói mắt,NaN,NaN,NaN,NaN,NaN
+Rối loạn nhìn ban đêm,Khoa Mắt,khó nhìn vào ban đêm,nhìn mờ,NaN,NaN,NaN,NaN,NaN
+Rối loạn nhìn ban đêm,Khoa Mắt,khó nhìn vào ban đêm,mỏi mắt,NaN,NaN,NaN,NaN,NaN
+Viêm họng,Tai Mũi Họng,đau họng,ho,sốt,khó nuốt,NaN,NaN,NaN
+Viêm họng,Tai Mũi Họng,ho,sốt,đau họng,NaN,NaN,NaN,NaN
+Viêm họng,Tai Mũi Họng,sốt,khó nuốt,đau họng,ho,NaN,NaN,NaN
+Viêm họng,Tai Mũi Họng,khó nuốt,ho,sốt,đau họng,NaN,NaN,NaN
+Viêm amidan,Tai Mũi Họng,đau họng,sốt,mệt mỏi,khó nuốt,NaN,NaN,NaN
+Viêm amidan,Tai Mũi Họng,mệt mỏi,sốt,đau họng,NaN,NaN,NaN,NaN
+Viêm amidan,Tai Mũi Họng,khó nuốt,mệt mỏi,đau họng,sốt,NaN,NaN,NaN
+Viêm amidan,Tai Mũi Họng,sốt,đau họng,khó nuốt,mệt mỏi,NaN,NaN,NaN
+Viêm xoang,Tai Mũi Họng,đau đầu,nghẹt mũi,sổ mũi,sốt,NaN,NaN,NaN
+Viêm xoang,Tai Mũi Họng,sổ mũi,đau đầu,sốt,NaN,NaN,NaN,NaN
+Viêm xoang,Tai Mũi Họng,nghẹt mũi,sốt,đau đầu,sổ mũi,NaN,NaN,NaN
+Viêm xoang,Tai Mũi Họng,sốt,nghẹt mũi,sổ mũi,đau đầu,NaN,NaN,NaN
+Viêm tai giữa,Tai Mũi Họng,đau tai,sốt,nghe kém,mệt mỏi,NaN,NaN,NaN
+Viêm tai giữa,Tai Mũi Họng,nghe kém,đau tai,sốt,NaN,NaN,NaN,NaN
+Viêm tai giữa,Tai Mũi Họng,mệt mỏi,nghe kém,đau tai,sốt,NaN,NaN,NaN
+Viêm tai giữa,Tai Mũi Họng,sốt,mệt mỏi,đau tai,nghe kém,NaN,NaN,NaN
+Chảy máu cam,Tai Mũi Họng,chảy máu mũi,nghẹt mũi,đau đầu,NaN,NaN,NaN,NaN
+Chảy máu cam,Tai Mũi Họng,đau đầu,chảy máu mũi,NaN,NaN,NaN,NaN,NaN
+Chảy máu cam,Tai Mũi Họng,nghẹt mũi,đau đầu,chảy máu mũi,NaN,NaN,NaN,NaN
+Chảy máu cam,Tai Mũi Họng,chảy máu mũi,đau đầu,nghẹt mũi,NaN,NaN,NaN,NaN
+Sổ mũi,Tai Mũi Họng,nghẹt mũi,chảy nước mũi,đau họng,NaN,NaN,NaN,NaN
+Sổ mũi,Tai Mũi Họng,chảy nước mũi,đau họng,nghẹt mũi,NaN,NaN,NaN,NaN
+Sổ mũi,Tai Mũi Họng,đau họng,nghẹt mũi,chảy nước mũi,NaN,NaN,NaN,NaN
+Sổ mũi,Tai Mũi Họng,nghẹt mũi,đau họng,chảy nước mũi,NaN,NaN,NaN,NaN
+Dị ứng mũi,Tai Mũi Họng,hắt hơi,nghẹt mũi,chảy nước mũi,ngứa mắt,NaN,NaN,NaN
+Dị ứng mũi,Tai Mũi Họng,ngứa mắt,hắt hơi,nghẹt mũi,NaN,NaN,NaN,NaN
+Dị ứng mũi,Tai Mũi Họng,nghẹt mũi,ngứa mắt,chảy nước mũi,NaN,NaN,NaN,NaN
+Dị ứng mũi,Tai Mũi Họng,chảy nước mũi,ngứa mắt,hắt hơi,NaN,NaN,NaN,NaN
+Mất thính giác,Tai Mũi Họng,nghe kém,ù tai,chóng mặt,NaN,NaN,NaN,NaN
+Mất thính giác,Tai Mũi Họng,nghe kém,ù tai,NaN,NaN,NaN,NaN,NaN
+Mất thính giác,Tai Mũi Họng,ù tai,chóng mặt,NaN,NaN,NaN,NaN,NaN
+Mất thính giác,Tai Mũi Họng,nghe kém,chóng mặt,NaN,NaN,NaN,NaN,NaN
+Lác mắt,Tai Mũi Họng,mắt nhìn lệch,khó phối hợp hai mắt,NaN,NaN,NaN,NaN,NaN
+Lác mắt,Tai Mũi Họng,mắt nhìn lệch,NaN,NaN,NaN,NaN,NaN,NaN
+Lác mắt,Tai Mũi Họng,khó phối hợp hai mắt,NaN,NaN,NaN,NaN,NaN,NaN
+Lác mắt,Tai Mũi Họng,mắt nhìn lệch,khó phối hợp hai mắt,NaN,NaN,NaN,NaN,NaN
+Viêm thanh quản,Tai Mũi Họng,khàn giọng,ho,đau họng,NaN,NaN,NaN,NaN
+Viêm thanh quản,Tai Mũi Họng,khàn giọng,ho,NaN,NaN,NaN,NaN,NaN
+Viêm thanh quản,Tai Mũi Họng,khàn giọng,đau họng,NaN,NaN,NaN,NaN,NaN
+Viêm thanh quản,Tai Mũi Họng,ho,đau họng,NaN,NaN,NaN,NaN,NaN
+Rối loạn thính giác,Tai Mũi Họng,nghe kém,ù tai,NaN,NaN,NaN,NaN,NaN
+Rối loạn thính giác,Tai Mũi Họng,nghe kém,NaN,NaN,NaN,NaN,NaN,NaN
+Rối loạn thính giác,Tai Mũi Họng,ù tai,NaN,NaN,NaN,NaN,NaN,NaN
+Rối loạn thính giác,Tai Mũi Họng,nghe kém,ù tai,NaN,NaN,NaN,NaN,NaN
+Tắc nghẽn đường hô hấp,Tai Mũi Họng,khó thở,ho,thở khò khè,NaN,NaN,NaN,NaN
+Tắc nghẽn đường hô hấp,Tai Mũi Họng,khó thở,ho,NaN,NaN,NaN,NaN,NaN
+Tắc nghẽn đường hô hấp,Tai Mũi Họng,khó thở,thở khò khè,NaN,NaN,NaN,NaN,NaN
+Tắc nghẽn đường hô hấp,Tai Mũi Họng,ho,thở khò khè,NaN,NaN,NaN,NaN,NaN
+Nghẹt mũi,Tai Mũi Họng,khó thở,chảy nước mũi,NaN,NaN,NaN,NaN,NaN
+Nghẹt mũi,Tai Mũi Họng,khó thở,NaN,NaN,NaN,NaN,NaN,NaN
+Nghẹt mũi,Tai Mũi Họng,chảy nước mũi,NaN,NaN,NaN,NaN,NaN,NaN
+Nghẹt mũi,Tai Mũi Họng,khó thở,chảy nước mũi,NaN,NaN,NaN,NaN,NaN
+Viêm tai ngoài,Tai Mũi Họng,đau tai,ngứa tai,sưng tai,NaN,NaN,NaN,NaN
+Viêm tai ngoài,Tai Mũi Họng,đau tai,ngứa tai,NaN,NaN,NaN,NaN,NaN
+Viêm tai ngoài,Tai Mũi Họng,đau tai,sưng tai,NaN,NaN,NaN,NaN,NaN
+Viêm tai ngoài,Tai Mũi Họng,ngứa tai,sưng tai,NaN,NaN,NaN,NaN,NaN
